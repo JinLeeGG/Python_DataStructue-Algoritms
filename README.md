@@ -5,11 +5,12 @@ This repository contains my notes, code examples, and practice files for learnin
 **This will be updated in the future**
 <details>
 <summary>File Input, Output</summary>
-- Inheritance, Polymorphism, Overriding
-- Error, Exception handing
-- Encoding
-- File Input, Output Options
-- Absolute Path and relative Path 
+  
+  - Inheritance, Polymorphism, Overriding
+  - Error, Exception handing
+  - Encoding
+  - File Input, Output Options
+  - Absolute Path and Relative Path 
 </details>
 
 ## License Information
