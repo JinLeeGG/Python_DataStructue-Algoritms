@@ -12,6 +12,6 @@ This will be updated in the future
 
 ### Attribution Example
 If you use the notes, please include a statement like:
-> "Based on notes by Jin Lee ([GitHub Profile](https://github.com/JinLeeGG)), licensed under CC BY 4.0."
+> "Based on notes by GyuJin Lee ([GitHub Profile](https://github.com/JinLeeGG)), licensed under CC BY 4.0."
 
 This ensures proper credit is given while allowing others to benefit from your work!
