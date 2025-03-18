@@ -2,8 +2,15 @@
 This repository contains my notes, code examples, and practice files for learning and implementing data structures and algorithms in Python. It includes content from Google Colab notebooks and solutions to various coding problems.
 
 ## Topics Covered
-This will be updated in the future
-
+**This will be updated in the future**
+<details>
+<summary>File Input, Output</summary>
+- Inheritance, Polymorphism, Overriding
+- Error, Exception handing
+- Encoding
+- File Input, Output Options
+- Absolute Path and relative Path 
+</details>
 
 ## License Information
 
