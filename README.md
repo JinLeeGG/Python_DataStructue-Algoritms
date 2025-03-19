@@ -13,6 +13,21 @@ This repository contains my notes, code examples, and practice files for learnin
   - Absolute Path and Relative Path 
 </details>
 
+<details>
+<summary>Web Crawling/Scraping</summary>
+  
+  - Server and Clients
+  - Web
+  - Browser
+  - URI, URL, Domain, IP
+  - Protocols
+  - WWW, W3C
+  - HTML, Tag, HTML structure
+  - Web Crawling/Scraping basics
+  - Web Crawling package, BeautifulSoup
+  - User-Agent
+</details>
+
 ## License Information
 
 - The **code** in this repository is licensed under the [MIT License](LICENSE), meaning you are free to use, modify, and distribute it with attribution.
