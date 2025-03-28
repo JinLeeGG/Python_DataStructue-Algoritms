@@ -33,7 +33,11 @@ This repository contains my notes, code examples, and practice files for learnin
 </details>
 
 <details>
-<summary>Pandas</summary>
+<summary>Pandas(Series)</summary>
+</details>
+
+<details>
+<summary>Pandas(DataFrame)</summary>
 </details>
 
 ## License Information
