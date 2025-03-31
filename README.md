@@ -40,6 +40,11 @@ This repository contains my notes, code examples, and practice files for learnin
 <summary>Pandas(DataFrame)</summary>
 </details>
 
+<details>
+<summary>Data Structures</summary>
+  - LinkedList
+</details>
+
 ## License Information
 
 - The **code** in this repository is licensed under the [MIT License](LICENSE), meaning you are free to use, modify, and distribute it with attribution.
