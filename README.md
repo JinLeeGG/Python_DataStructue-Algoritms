@@ -42,9 +42,13 @@ This repository contains my notes, code examples, and practice files for learnin
 
 <details>
 <summary>Data Structures</summary>
+  
   - Linked List
   - Circular Linked List
   - Stack
+  - Queue
+  - Circular Queue
+  - Hash table
 </details>
 
 ## License Information
