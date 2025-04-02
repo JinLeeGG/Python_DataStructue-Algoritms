@@ -42,7 +42,9 @@ This repository contains my notes, code examples, and practice files for learnin
 
 <details>
 <summary>Data Structures</summary>
-  - LinkedList
+  - Linked List
+  - Circular Linked List
+  - Stack
 </details>
 
 ## License Information
