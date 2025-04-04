@@ -81,5 +81,3 @@ This repository contains my notes, code examples, and practice files for learnin
 ### Attribution Example
 If you use the notes, please include a statement like:
 > "Based on notes by GyuJin Lee ([GitHub Profile](https://github.com/JinLeeGG)), licensed under CC BY 4.0."
-
-This ensures proper credit is given while allowing others to benefit from your work!
