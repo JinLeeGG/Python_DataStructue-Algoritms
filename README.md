@@ -7,8 +7,8 @@ This repository contains my notes, code examples, and practice files for learnin
 <summary>File Input, Output</summary>
   
   - Inheritance, Polymorphism, Overriding
-  - Error, Exception handing
-  - Encoding
+  - Error, Exception handling
+  - Encoding, decoding
   - File Input, Output Options
   - Absolute Path and Relative Path 
 </details>
@@ -30,14 +30,32 @@ This repository contains my notes, code examples, and practice files for learnin
 
 <details>
 <summary>Numpy</summary>
+  - Numpy functions 
+  - Code examples
 </details>
 
 <details>
 <summary>Pandas(Series)</summary>
+  - Pandas(Series) functions
+  - Code examples
 </details>
 
 <details>
 <summary>Pandas(DataFrame)</summary>
+  - Pandas(Series) functions
+  - Code examples  
+</details>
+
+<details>
+<summary>Matplotlib, Seaborn, folium</summary>
+  - Matplotlib, Seaborn, folium functions
+  - Code examples
+</details>
+
+<details>
+<summary>OpenAI API</summary>
+  - How to use OpenAI API
+  - Code examples
 </details>
 
 <details>
