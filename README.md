@@ -78,7 +78,12 @@ This repository contains my notes, code examples, and practice files for learnin
 <summary>Algorithms</summary>
   
   - Greedy
+  - Sort
+    - Selection Sort
+    - Insertion Sort
 </details>
+
+
 
 ## License Information
 
