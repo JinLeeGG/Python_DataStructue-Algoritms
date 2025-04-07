@@ -63,6 +63,7 @@ This repository contains my notes, code examples, and practice files for learnin
 </details>
 
 <details>
+  
 <summary>Data Structures</summary>
   
   - Linked List
@@ -73,6 +74,7 @@ This repository contains my notes, code examples, and practice files for learnin
   - Hash table
 </details>
 
+<details>
 <summary>Algorithms</summary>
   
   - Greedy
