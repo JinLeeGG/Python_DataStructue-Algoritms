@@ -73,6 +73,11 @@ This repository contains my notes, code examples, and practice files for learnin
   - Hash table
 </details>
 
+<summary>Algorithms</summary>
+  
+  - Greedy
+</details>
+
 ## License Information
 
 - The **code** in this repository is licensed under the [MIT License](LICENSE), meaning you are free to use, modify, and distribute it with attribution.
