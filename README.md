@@ -73,6 +73,9 @@ This repository contains my notes, code examples, and practice files for learnin
   - Circular Queue
   - Hash table
   - Tree
+      - Binary Tree
+      - Binary Tree Traversal
+      - DFS, BFS
 </details>
 
 <details>
