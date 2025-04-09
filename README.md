@@ -82,6 +82,9 @@ This repository contains my notes, code examples, and practice files for learnin
   - Sort
     - Selection Sort
     - Insertion Sort
+    - Bubble Sort
+    - Merge Sort
+    - Quick Sort
 </details>
 
 
