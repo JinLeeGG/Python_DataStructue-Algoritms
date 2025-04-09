@@ -72,6 +72,7 @@ This repository contains my notes, code examples, and practice files for learnin
   - Queue
   - Circular Queue
   - Hash table
+  - Tree
 </details>
 
 <details>
