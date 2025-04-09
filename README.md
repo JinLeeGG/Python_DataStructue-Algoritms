@@ -76,6 +76,7 @@ This repository contains my notes, code examples, and practice files for learnin
       - Binary Tree
       - Binary Tree Traversal
       - DFS, BFS
+      - Binary Search Tree (BST)
 </details>
 
 <details>
